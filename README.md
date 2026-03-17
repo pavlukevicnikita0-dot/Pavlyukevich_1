@@ -22,7 +22,7 @@
  * 2. Компиляция: gcc program.c -o program
  * 3. Запуск: ./program (Linux/macOS) или program.exe (Windows)
  * 4. Или использовать онлайн-компилятор (onlinegdb.com, replit.com)
- #2
+ # 2
  /*
  * Программа: Размеры типов данных в Си
  * Описание: Программа выводит размеры (в байтах) основных типов данных 
@@ -55,4 +55,4 @@
  *    - Linux/macOS: ./sizes
  *    - Windows: sizes.exe
  * 4. Или использовать онлайн-компилятор (onlinegdb.com, replit.com)
- */
+ 
